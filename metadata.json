@@ -1,0 +1,6 @@
+{
+  "name": "FS FAHAD",
+  "description": "FS FAHAD - Premium Esports & Game Top-Up Platform (Fast • Safe • Easy)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone center is 54,54 radius 33dp -->
+    <!-- Outer Shield Crest -->
+    <path
+        android:pathData="M54,26 L76,37 L76,58 C76,69 66,78 54,82 C42,78 32,69 32,58 L32,37 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00D2FF"
+        android:fillColor="#0D1526" />
+
+    <!-- Inner gold border -->
+    <path
+        android:pathData="M54,30 L72,39 L72,57 C72,66 64,74 54,78 C44,74 36,66 36,57 L36,39 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#F59E0B"
+        android:fillColor="#00000000" />
+
+    <!-- Letter 'F' in stylized esports typography -->
+    <path
+        android:pathData="M42,42 L52,42 L52,45 L45.5,45 L45.5,49 L50.5,49 L50.5,52 L45.5,52 L45.5,64 L42,64 Z"
+        android:fillColor="#00D2FF" />
+
+    <!-- Letter 'S' interlocking in gold -->
+    <path
+        android:pathData="M54,45 C54,43 56,42 59,42 L65,42 L65,45 L58,45 C56.5,45 56.5,47 58,47.5 L63,49 C65.5,50 66,52 66,54.5 C66,58 63,60 59,60 L53,60 L53,57 L59.5,57 C61.5,57 62.5,56 62.5,54.5 C62.5,53 61.5,52 59.5,51.5 L55,50 C54,49 54,47 54,45 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- Crown / Apex gem -->
+    <path
+        android:pathData="M54,22 L57,26 L51,26 Z"
+        android:fillColor="#FBBF24" />
+</vector>
